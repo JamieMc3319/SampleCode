@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>ZohoClients</id>
+		<version>1.0.0.0</version>
+		<title>ZohoClients</title>
+		<authors>Jamie McCracken</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<!-- <icon>icon.png</icon> -->
+		<description>ZohoClients</description>
+		<dependencies>
+			<group targetFramework="netstandard20" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="bin\Debug\netstandard2.0\*.*" target="lib/netstandard2.0" />
+	</files>
+</package>

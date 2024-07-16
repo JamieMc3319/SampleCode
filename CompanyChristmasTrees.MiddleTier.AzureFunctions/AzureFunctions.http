@@ -1,0 +1,9 @@
+﻿@AzureFunctions_HostAddress = http://localhost:7075
+
+POST {{AzureFunctions_HostAddress}}/api/CreateCalendarEventsFromSalesOrder
+
+###
+
+POST {{AzureFunctions_HostAddress}}/api/CreateCalendarEventsFromSalesOrder
+
+###
